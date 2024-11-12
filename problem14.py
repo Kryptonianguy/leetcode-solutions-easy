@@ -30,4 +30,4 @@ class Solution:
 # Test the code
 strs = ["dog","racecar","car"]
 solution = Solution()
-print(solution.longestCommonPrefix(strs))  # Output: "fl"
+print(solution.longestCommonPrefix(strs))  # Output: " "
